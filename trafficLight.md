@@ -15,3 +15,7 @@ void loop()
 }
 
 ```
+
+The image of the circuit is shown in Fig. 1
+
+![Circuit](Screen Shot 2020-03-02 at 15.24.35.png)
